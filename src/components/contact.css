@@ -7,7 +7,6 @@
   
   .contact-box {
     width: clamp(100px, 90%, 1000px);
-    margin: 80px 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
