@@ -24,13 +24,13 @@ function Projects() {
           <div className="smpl">
             <img src="https://cdn.dribbble.com/userupload/10422383/file/original-b41bd60af19c6b30706adb1241f91f5c.png?resize=1600x960" />
             <a target="_blank" href="https://www.washoo.in">
-              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
+              <button className="btn-work" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
           <div className="smpl">
             <img src="https://cdn.dribbble.com/userupload/10422715/file/original-f2b88f01153b46961818bf5421d494c1.png?resize=1024x577&vertical=center" />
             <a target="_blank" href="https://dsb-media-website2.vercel.app/">
-              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
+              <button className="btn-work" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
           <div className="smpl">
@@ -39,7 +39,7 @@ function Projects() {
               target="_blank"
               href="https://github.com/Neeraaaj/Zomato-Review-Analysis/tree/main"
             >
-              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
+              <button className="btn-work" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
           <div className="smpl">
@@ -48,13 +48,13 @@ function Projects() {
               target="_blank"
               href="https://github.com/Neeraaaj/MoonLandingDataAnalysisUsingPowerBI"
             >
-              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
+              <button className="btn-work" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
           <div className="smpl">
             <img src="https://cdn.dribbble.com/userupload/10322468/file/original-cb3ad247c027433215f5c65af75f0c7e.png?resize=1200x600" />
             <a target="_blank" href="https://ai-news2.vercel.app/">
-              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
+              <button className="btn-work" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
         </div>
