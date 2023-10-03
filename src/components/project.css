@@ -48,7 +48,7 @@
     cursor: grab;
     padding: 2vw;
     color: white;
-    width: 50%;
+      border-radius: 10px;
     transform: translate(50%, 0%);
   }
   
