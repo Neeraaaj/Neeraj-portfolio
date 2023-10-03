@@ -25,7 +25,7 @@ function About() {
         <div class="col col-text">
           <div class="Aligner-item">
             <p style={{ fontSize: "100%", overflowY: "hidden" }} className="p">
-            I'm a passionate web developer and designer with proficiency in HTML, CSS, JavaScript, React, and various backend technologies. Over the course of my career, I've had the privilege of working on diverse projects, ranging from e-commerce websites to interactive web applications, consistently delivering high-quality results. What sets me apart is my unwavering commitment to continuous learning and growth, as I stay at the forefront of web development trends through online courses and workshops. <br />
+            I'm a passionate web developer and designer with proficiency in HTML, CSS, JavaScript, React, and various backend technologies. Over the course of my career, I've had the privilege of working on diverse projects, ranging from e-commerce websites to interactive web applications, consistently delivering high-quality results. <br />
             
             </p>
           </div>
