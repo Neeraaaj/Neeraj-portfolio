@@ -30,7 +30,7 @@ function Projects() {
           <div className="smpl">
             <img src="https://cdn.dribbble.com/userupload/10422715/file/original-f2b88f01153b46961818bf5421d494c1.png?resize=1024x577&vertical=center" />
             <a target="_blank" href="https://dsb-media-website2.vercel.app/">
-              <button className="btn" style="width: fit-content;">Preview</button>
+              <button className="btn" style={{ width: "fit-content" }}>Preview</button>
             </a>
           </div>
           <div className="smpl">
