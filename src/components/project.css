@@ -38,9 +38,9 @@
       justify-content: center;
   }
   
-  .btn {
+  .btn-work {
     margin-top: 5%;
-    background-color: turquoise;
+    background-color: #40e0d0;
     border: none;
     cursor: grab;
     padding: 2vw;
@@ -114,9 +114,9 @@
       height: 150%;
     }
   
-    .btn {
+    .btn-work {
       margin-top: 5%;
-      background-color: turquoise;
+      background-color: #40e0d0;
       color: white;
       width: fit-content;
       transform: translate(40%, 0%);
@@ -147,9 +147,9 @@
       box-shadow: none;
     }
   
-    .btn {
+    .btn-work {
       margin-top: 5%;
-      background-color: turquoise;
+      background-color: #40e0d0;
       color: white;
       padding: 20px;
       width: fit-content;
@@ -181,9 +181,9 @@
       box-shadow: none;
     }
   
-    .btn {
+    .btn-work {
       margin-top: 5%;
-      background-color: turquoise;
+      background-color: #40e0d0;
       color: white;
       padding: 20px;
       width: fit-content;
@@ -216,9 +216,9 @@
       box-shadow: none;
     }
   
-    .btn {
+    .btn-work {
       margin-top: 5%;
-      background-color: turquoise;
+      background-color: #40e0d0;
       color: white;
       padding: 20px;
       width: fit-content;
