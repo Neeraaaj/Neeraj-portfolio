@@ -33,12 +33,9 @@
   }
   
   #work h1 {
-    left: 0;
-    font-size: 70px;
-    line-height: 60px;
-    margin-top: 20px;
-    overflow-y: hidden;
-    margin-left: -40%;
+    font-size: 8vw;
+      display: flex;
+      justify-content: center;
   }
   
   .btn {
@@ -96,12 +93,7 @@
     }
   
     #work h1 {
-      left: 0;
-      font-size: 40px;
-      line-height: 30px;
-      margin-top: 20px;
-      overflow-y: hidden;
-      margin-left: -10%;
+      
     }
   
     #samples #right {
