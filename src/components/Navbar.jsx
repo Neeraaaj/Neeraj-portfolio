@@ -101,6 +101,7 @@ function Navbar() {
                 to="/projects"
                 className="nav-links"
                 onClick={closeMobileMenu}
+                style={{ color: click ? "white" : "black" }}
               >
                 My Projects
               </Link>
